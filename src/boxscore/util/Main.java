@@ -1,4 +1,4 @@
-package boxscore;
+package boxscore.util;
 
 public class Main {
 
