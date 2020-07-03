@@ -1,0 +1,3 @@
+GameId,Team,PlayerId,AtBats,Hits,RunsScored,RBI,Doubles,Triples,Homers,Walks,Strikeouts,StolenBases,CaughtStealing,DoublePlays,HitByPitch,SacBunts,SacFlies
+sbs19al-01.1,HOU,gspri,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+sbs19al-01.1,HOU,jaltu,4,0,0,0,0,0,0,0,1,0,0,1,0,0,0
