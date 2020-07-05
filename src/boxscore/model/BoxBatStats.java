@@ -5,24 +5,24 @@ package boxscore.model;
  */
 
 public class BoxBatStats {
-    String gameId;
-    String team;
-    String playerId;
-    int atBats;
-    int hits;
-    int runsScored;
-    int rbi;
-    int doubles;
-    int triples;
-    int homers;
-    int walks;
-    int strikeouts;
-    int stolenBases;
-    int caughtStealing;
-    int doublePlays;
-    int hitByPitch;
-    int sacBunts;
-    int sacFlies;
+    private String gameId;
+    private String team;
+    private String playerId;
+    private int atBats;
+    private int hits;
+    private int runsScored;
+    private int rbi;
+    private int doubles;
+    private int triples;
+    private int homers;
+    private int walks;
+    private int strikeouts;
+    private int stolenBases;
+    private int caughtStealing;
+    private int doublePlays;
+    private int hitByPitch;
+    private int sacBunts;
+    private int sacFlies;
 
     public String getGameId() {
         return gameId;
